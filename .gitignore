@@ -1,0 +1,8 @@
+# do not track
+# - course materials (docs)
+# - homeworks (hws)
+docs/
+hws/
+# jupyter nb checkpoints
+.ipynb_checkpoints/
+.DS_Store
